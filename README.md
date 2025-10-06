@@ -1,3 +1,3 @@
 # PMLang(Parsec Math Language)
 
-![Github Banner](./assets/GithubBanner.png)
+![Github Banner](./assets/GitHubBanner.png)
