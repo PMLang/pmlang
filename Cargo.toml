@@ -1,0 +1,15 @@
+[package]
+name = "pmlang"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pml_macro = { path = "pml_macro" }
+pml_tokens = { path = "pml_tokens" }
+
+[workspace]
+members = [
+    ".",
+    "pml_macro",
+    "pml_tokens"
+]
